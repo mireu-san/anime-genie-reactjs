@@ -11,5 +11,12 @@ Welcome to Anime Genie!
 
 1. Specific action regarding project:
 - applied gitignore 
-* https://www.toptal.com/developers/gitignore/api/windows,react
+- https://www.toptal.com/developers/gitignore/api/windows,react
 
+2. Basic structures - OK
+
+3. Connecting Jikan REST API and get them flawlessly on the page. - minimum objective
+
+4. Decorate page with some:
+- animation effect
+- grid, and color effect
